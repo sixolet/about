@@ -37,7 +37,7 @@ EventFlow, a stream-relational programming language for event-driven systems.
   useful in EventFlow and similar languages
 - Implemented functions as a first-class data type in EventFlow
 - Decreased latency for EventFlow programs by improving the runtime environment
-- Developed best practices for software engineers using EventFlow
+- Developed and communicated best practices for software engineers using EventFlow
 - Wrote frameworks in EventFlow for automating securities trading tasks
 
 Languages
