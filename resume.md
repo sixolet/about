@@ -21,7 +21,7 @@ environment designed to work with it.
   without downtime
 - Wrote an automated testing server, with a web front-end that allows users to
   easily see differences in test results between runs
-- Co-wrote the DDP (Meteor's data and RPC protocol) version pre-1 specification,
+- Co-wrote the DDP (Meteor's data and RPC protocol) version pre-1 specification
   and implemented many of the necessary framework features to support it
 
 #### StreamBase Systems (now TIBCO) (July 2007 - November 2012)
@@ -31,6 +31,8 @@ environment designed to work with it.
 Designed and implemented programming language features for StreamBase StreamSQL
 EventFlow, a stream-relational programming language for event-driven systems.
 
+- Led language evolution efforts, including soliciting input from field
+  engineers as well as defining, implementing, and refining language features
 - Designed and implemented Capture Fields, a modularity feature specifically
   useful in EventFlow and similar languages
 - Implemented functions as a first-class data type in EventFlow
