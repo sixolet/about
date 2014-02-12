@@ -24,7 +24,7 @@ environment designed to work with it.
 - Co-wrote the DDP (Meteor's data and RPC protocol) version pre-1 specification
   and implemented many of the necessary framework features to support it
 - In an on-call rotation, fixed operational problems with the hosting
-  environment and the MongoDB deployment it depended on
+  environment and the MongoDB deployment it depends on
 
 #### StreamBase Systems (now TIBCO) (July 2007 - November 2012)
 
