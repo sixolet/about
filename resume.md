@@ -43,9 +43,10 @@ EventFlow, a stream-relational programming language for event-driven systems.
 Languages
 ------
 
-At any given time, I have about three programming languages in main memory, with
-quite a few more swapped to disk. Right now I have JavaScript (underscore.js
-variant), Python, and Java paged in.
+As a polyglot programmer, I learn new languages and tools quickly.  At any given
+time, I have about three programming languages in main memory, with quite a few
+more swapped to disk. Right now I have JavaScript (underscore.js variant),
+Python, and Java paged in.
 
 Education
 ---------
