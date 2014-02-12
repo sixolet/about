@@ -31,8 +31,8 @@ environment designed to work with it.
 Designed and implemented programming language features for StreamBase StreamSQL
 EventFlow, a stream-relational programming language for event-driven systems.
 
-- Led language evolution efforts, including soliciting input from field
-  engineers as well as defining, implementing, and refining language features
+- Led language evolution efforts, including requirements gathering from field
+  engineers, as well as defining, implementing, and refining language features
 - Designed and implemented Capture Fields, a modularity feature specifically
   useful in EventFlow and similar languages
 - Implemented functions as a first-class data type in EventFlow
