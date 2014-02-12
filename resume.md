@@ -21,10 +21,8 @@ environment designed to work with it.
   without downtime
 - Wrote an automated testing server, with a web front-end that allows users to
   easily see differences in test results between runs
-- Co-wrote the current specification for DDP, Meteor's data and RPC
-  protocol
-- Implemented many of the necessary framework features to support the current
-  DDP specification
+- Co-wrote the DDP (Meteor's data and RPC protocol) version pre-1 specification,
+  and implemented many of the necessary framework features to support it
 
 #### StreamBase Systems (now TIBCO) (July 2007 - November 2012)
 
