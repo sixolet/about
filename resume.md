@@ -3,7 +3,6 @@ Naomi Seyfer
 
 `naomi@seyfer.org`
 
-
 Experience
 ----------
 
