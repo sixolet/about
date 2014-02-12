@@ -29,7 +29,8 @@ environment designed to work with it.
 ##### Senior Software Engineer, Runtime Group
 
 Designed and implemented programming language features for StreamBase StreamSQL
-EventFlow, a stream-relational programming language for event-driven systems.
+EventFlow, a stream-relational programming language for event-driven systems
+that compiles to JVM bytecode.
 
 - Led language evolution efforts, including requirements gathering from field
   engineers, as well as defining, implementing, and refining language features
@@ -44,7 +45,7 @@ Languages
 ------
 
 As a polyglot programmer, I learn new languages and tools quickly.  At any given
-time, I have about three programming languages in main memory, with quite a few
+time I have about three programming languages in main memory, with quite a few
 more swapped to disk. Right now I have JavaScript (underscore.js variant),
 Python, and Java paged in.
 
