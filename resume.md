@@ -54,7 +54,7 @@ Python, and Java paged in.
 Education
 ---------
 
-#### Massachussetts Institute of Technology (2002-2007)
+#### Massachusetts Institute of Technology (2002-2007)
 
 - M.Eng. in Electrical Engineering and Computer Science
  + Research project involving information flow control in operating systems
@@ -66,7 +66,7 @@ Publications
 ------------
 
 - [Naomi Seyfer, Richard Tibbetts, and Nathaniel Mishkin. 2011. Capture fields:
-  modularity in a stream-relational event processing languauge. In Proceedings of
+  modularity in a stream-relational event processing language. In Proceedings of
   the 5th ACM international conference on Distributed event-based system (DEBS
   '11). ACM, New York, NY, USA,
   15-22. DOI=10.1145/2002259.2002263](http://doi.acm.org/10.1145/2002259.2002263).
