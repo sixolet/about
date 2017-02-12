@@ -6,6 +6,30 @@ Naomi Seyfer
 Experience
 ----------
 
+#### Dropbox (May 2014 - Current)
+
+##### Software Engineer - Metaserver Platform Team
+
+Responsible for making server application engineering easy, fast, and safe.
+
+- Led an initiative to unify the test and development environments for all parts
+  of the server codebase, including integration environments requiring
+  microservices to coordinate with each other
+- Implemented per-route alerting for all Python endpoints
+- Described the consistency implications of Dropbox's database access patterns,
+  and produced recommendations for changing them
+- Worked with the team responsible for Dropbox's custom database to define and
+  implement APIs for data access with clear, well-defined consistency semantics
+- Participated in the rotation responsible for deploying code to the majority of
+  Dropbox's application-level servers
+
+##### Software Engineer - Filesystems
+
+- Helped port core Dropbox filesystem code from Python to Go
+- Led recovery and reconstruction from data storage inconsistencies
+- Participated in Dropbox's catchall server on-call rotation
+
+
 #### Meteor Development Group (November 2012 - February 2014)
 
 ##### Core Developer
@@ -48,8 +72,7 @@ Languages
 
 As a polyglot programmer, I learn new languages and tools quickly.  At any given
 time I have about three programming languages in main memory, with quite a few
-more swapped to disk. Right now I have JavaScript (underscore.js variant),
-Python, and Java paged in.
+more swapped to disk. Right now I have Python, Go, and some Scala paged in.
 
 Education
 ---------
