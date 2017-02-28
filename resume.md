@@ -29,6 +29,10 @@ Responsible for making server application engineering easy, fast, and safe.
 - Led recovery and reconstruction from data storage inconsistencies
 - Participated in Dropbox's catchall server on-call rotation
 
+##### Miscellaneous 
+
+- Contributor to [mypy](https://github.com/python/mypy), a static typechecker 
+  for Python, with a focus on making function types flexible and exact
 
 #### Meteor Development Group (November 2012 - February 2014)
 
