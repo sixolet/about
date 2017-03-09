@@ -83,11 +83,11 @@ Education
 
 #### Massachusetts Institute of Technology (2002-2007)
 
-- M.Eng. in Electrical Engineering and Computer Science
+- M.Eng. in Electrical Engineering and Computer Science (2006-2007)
  + Research project involving information flow control in operating systems
  + Teaching Assistant for Laboratory in Software Engineering
 
-- S.B. in Electrical Engineering and Computer Science
+- S.B. in Electrical Engineering and Computer Science (2002-2006)
 
 Publications
 ------------
