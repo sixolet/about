@@ -6,7 +6,7 @@ Naomi Seyfer
 Experience
 ----------
 
-#### Dropbox (May 2014 - Current)
+#### Dropbox (May 2014 - March 2017)
 
 ##### Software Engineer - Metaserver Platform Team
 
